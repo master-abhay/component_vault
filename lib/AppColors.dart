@@ -53,14 +53,4 @@ class AppColors {
   static const Color lavenderHaze = Color(0xffECE6F0);
   static const Color charcoalPurple = Color(0xFF49454F);
   static const Color slateGrayBlue = Color(0xFF5B5E63);
-
-
-
-
-
-
-
-
-
-
 }
